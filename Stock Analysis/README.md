@@ -1,14 +1,7 @@
-# ***Name: Ahmed Nasser Ahmed Hassan***
-> **CodeClause |> *Sep/2022***
->> **Data Science Intern |> *CC-OL-911***
+# ***Name: Abhay Kumar***
+> **CodeClause |> *July/2023***
+>> **Data Science Intern **
 >>> **Task1 >> *Stock Analysis***
-
-- <a href="https://www.linkedin.com/posts/ahmednasser1601_stock-analysis-data-science-codeclause-activity-6979028528281341953-rUzM?utm_source=share&utm_medium=member_android">LinkedIn Post</a>
-- <a href="https://youtu.be/GaddR5aiq_U">YouTube Video</a>
-
----
-
-  - ### <a title="AhmedNasser1601/Stock-Analysis" href="/Stock_Analysis_Netflix.ipynb"><img width="75" alt="Google Colaboratory SVG Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/100px-Google_Colaboratory_SVG_Logo.svg.png">Stock Analysis |> Netflix</a>
   
   > Based on |> <a href="https://www.kaggle.com/datasets/pritsheta/netflix-stock-data-from-2002-to-2021">Netflix Stock data from 2002 to 2021</a>
   >> <img src="Screens/0.png">
